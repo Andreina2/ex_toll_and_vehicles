@@ -18,6 +18,11 @@ public class Station {
         this.vehicleList = new ArrayList<>();
     }
 
+    //method
+    public double calculateToll() {
+        return totalCollected;
+    }
+
 
 
 
