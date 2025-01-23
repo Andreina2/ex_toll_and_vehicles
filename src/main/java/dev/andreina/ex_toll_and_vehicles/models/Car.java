@@ -1,7 +1,7 @@
 package dev.andreina.ex_toll_and_vehicles.models;
 
 // extends : hereda atributos y metodos de clase vehicle
-class Car extends Vehicle {
+public class Car extends Vehicle {
 
     //constructor
     public Car (String plate) {

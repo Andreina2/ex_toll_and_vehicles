@@ -1,6 +1,6 @@
 package dev.andreina.ex_toll_and_vehicles.models;
 
-abstract class Vehicle {
+public abstract class Vehicle {
     private String plate;
 
     //constructor
